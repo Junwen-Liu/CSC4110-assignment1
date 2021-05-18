@@ -1,4 +1,5 @@
 // Simple C++ program to display "Hello World" 
+//Author: Junwen Liu <junwenliu7@gmail.com>
   
 // Header file for input output functions 
 
